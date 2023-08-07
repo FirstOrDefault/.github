@@ -1,4 +1,4 @@
-# Welcome to FirstOrDefault - Your Premier Technology Solutions Provider!
+# Welcome to FirstOrDefault
 
 At FirstOrDefault, we are your trusted partner for a wide range of technology services. With a passion for innovation and excellence, we offer a comprehensive suite of solutions to cater to all your digital needs. Whether you're a startup, a growing business, or an established enterprise, we have the expertise to deliver outstanding results that drive your success.
 
